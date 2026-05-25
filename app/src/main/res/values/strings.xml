@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">AdoptMe</string>
+
+    <!-- Login -->
+    <string name="login_brand">AdoptMe Miuni</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Ingresa a tu cuenta para empezar a adoptar</string>
+    <string name="email_label">Correo electrónico</string>
+    <string name="email_hint">ejemplo@correo.com</string>
+    <string name="password_label">Contraseña</string>
+    <string name="password_hint">••••••••</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="or_continue_with">O CONTINÚA CON</string>
+    <string name="continue_google">Continuar con Google</string>
+    <string name="no_account">¿No tienes cuenta?</string>
+    <string name="register">Regístrate</string>
+    <string name="footer_brand">ADOPTME MIUNI</string>
+
+    <!-- Home -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_login">Inicio de Sesión</string>
+    <string name="hero_title">Encuentra a tu nuevo mejor amigo</string>
+    <string name="hero_subtitle">Adopta amor, cambia vidas</string>
+    <string name="home_about">AdoptMe ayuda a conectar mascotas con familias. Las adopciones son responsables y con apoyo después de llevar a tu peludito a casa.</string>
+    <string name="home_stats_simple">• +120 mascotas adoptadas\n• +90 familias felices\n• +50 refugios aliados</string>
+    <string name="home_steps_simple">1. Busca tu mascota\n2. Conócela en una visita\n3. Adopta con nuestra ayuda</string>
+    <string name="home_story_simple">\"Luna llegó a mi vida y todo cambió\" — Sofía, adoptante.</string>
+    <string name="why_title">¿Por qué elegirnos?</string>
+    <string name="why_1_title">Adopción responsable</string>
+    <string name="why_1_desc">Cuidamos que cada adopción sea ética y segura.</string>
+    <string name="why_2_title">Mascotas vacunadas</string>
+    <string name="why_2_desc">Nuestros peluditos son entregados con su salud al día.</string>
+    <string name="why_3_title">Seguimiento post-adopción</string>
+    <string name="why_3_desc">Te acompañamos para asegurar el bienestar del animal.</string>
+    <string name="cta_register">Regístrate</string>
+    <string name="stats_title">Conectamos patas con corazones</string>
+    <string name="stat_pets">+120</string>
+    <string name="stat_pets_label">Mascotas adoptadas</string>
+    <string name="stat_families">+90</string>
+    <string name="stat_families_label">Familias felices</string>
+    <string name="stat_shelters">+50</string>
+    <string name="stat_shelters_label">Refugios aliados</string>
+    <string name="how_title">¿Cómo funciona?</string>
+    <string name="step_1_title">Encuentra tu compañero ideal</string>
+    <string name="step_1_desc">Explora perfiles y elige a tu futuro mejor amigo.</string>
+    <string name="step_2_title">Conózcanse</string>
+    <string name="step_2_desc">Agenda una visita y conecta con tu mascota.</string>
+    <string name="step_3_title">Adopta con confianza</string>
+    <string name="step_3_desc">Completa el proceso con nuestro acompañamiento.</string>
+    <string name="stories_title">Historias que conmueven</string>
+    <string name="story_1_name">Sofía &amp; Luna</string>
+    <string name="story_1_text">\"Luna llegó a mi vida y todo cambió. AdoptMe hizo el proceso muy sencillo.\"</string>
+    <string name="story_2_name">Carlos &amp; Max</string>
+    <string name="story_2_text">\"Max es mi compañero de aventuras. Gracias por conectarnos.\"</string>
+    <string name="footer_about">Sobre Nosotros</string>
+    <string name="footer_about_desc">Conectamos mascotas con familias que les darán un hogar lleno de amor.</string>
+    <string name="footer_contact">Contáctanos</string>
+    <string name="footer_contact_info">WhatsApp: +57 300 000 0000\nTel: (601) 000 0000\ninfo@adoptme.com</string>
+    <string name="footer_policies">Políticas</string>
+    <string name="footer_policies_links">Privacidad · Términos · Adopción</string>
+    <string name="copyright">© 2026 AdoptMe. Todos los derechos reservados.</string>
+
+    <!-- Navigation -->
+    <string name="nav_login_short">Sesión</string>
+    <string name="nav_register_short">Registro</string>
+    <string name="back">Volver</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="welcome_user">Bienvenido, %1$s</string>
+    <string name="search_hint">Buscar mascotas…</string>
+
+    <!-- Register -->
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Únete y empieza a adoptar con amor</string>
+    <string name="name_label">Nombre completo</string>
+    <string name="name_hint">Tu nombre</string>
+    <string name="confirm_password_label">Confirmar contraseña</string>
+    <string name="register_button">Crear cuenta</string>
+    <string name="have_account">¿Ya tienes cuenta?</string>
+    <string name="go_login">Inicia sesión</string>
+
+    <!-- Forgot password -->
+    <string name="forgot_title">Recuperar contraseña</string>
+    <string name="forgot_subtitle">Te enviaremos un enlace a tu correo</string>
+    <string name="send_link">Enviar enlace</string>
+
+    <!-- Validation & messages -->
+    <string name="error_email_empty">Ingresa tu correo electrónico</string>
+    <string name="error_email_invalid">Correo electrónico no válido</string>
+    <string name="error_password_empty">Ingresa tu contraseña</string>
+    <string name="error_password_short">La contraseña debe tener al menos 4 caracteres</string>
+    <string name="error_name_empty">Ingresa tu nombre</string>
+    <string name="error_password_mismatch">Las contraseñas no coinciden</string>
+    <string name="login_success">¡Sesión iniciada correctamente!</string>
+    <string name="register_success">Cuenta creada. Ahora inicia sesión.</string>
+    <string name="forgot_success">Enlace enviado a tu correo</string>
+    <string name="logout_success">Sesión cerrada</string>
+</resources>
