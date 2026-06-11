@@ -42,23 +42,7 @@
     <string name="stat_shelters">+50</string>
     <string name="stat_shelters_label">Refugios aliados</string>
     <string name="how_title">¿Cómo funciona?</string>
-    <string name="step_1_title">Encuentra tu compañero ideal</string>
-    <string name="step_1_desc">Explora perfiles y elige a tu futuro mejor amigo.</string>
-    <string name="step_2_title">Conózcanse</string>
-    <string name="step_2_desc">Agenda una visita y conecta con tu mascota.</string>
-    <string name="step_3_title">Adopta con confianza</string>
-    <string name="step_3_desc">Completa el proceso con nuestro acompañamiento.</string>
     <string name="stories_title">Historias que conmueven</string>
-    <string name="story_1_name">Sofía &amp; Luna</string>
-    <string name="story_1_text">\"Luna llegó a mi vida y todo cambió. AdoptMe hizo el proceso muy sencillo.\"</string>
-    <string name="story_2_name">Carlos &amp; Max</string>
-    <string name="story_2_text">\"Max es mi compañero de aventuras. Gracias por conectarnos.\"</string>
-    <string name="footer_about">Sobre Nosotros</string>
-    <string name="footer_about_desc">Conectamos mascotas con familias que les darán un hogar lleno de amor.</string>
-    <string name="footer_contact">Contáctanos</string>
-    <string name="footer_contact_info">WhatsApp: +57 300 000 0000\nTel: (601) 000 0000\ninfo@adoptme.com</string>
-    <string name="footer_policies">Políticas</string>
-    <string name="footer_policies_links">Privacidad · Términos · Adopción</string>
     <string name="copyright">© 2026 AdoptMe. Todos los derechos reservados.</string>
 
     <!-- Navigation -->
@@ -66,7 +50,7 @@
     <string name="nav_register_short">Registro</string>
     <string name="back">Volver</string>
     <string name="logout">Cerrar sesión</string>
-    <string name="welcome_user">Bienvenido, %1$s</string>
+    <string name="welcome_user">¡Bienvenido de nuevo, %1$s!</string>
     <string name="search_hint">Buscar mascotas…</string>
 
     <!-- Register -->
@@ -78,6 +62,20 @@
     <string name="register_button">Crear cuenta</string>
     <string name="have_account">¿Ya tienes cuenta?</string>
     <string name="go_login">Inicia sesión</string>
+
+    <!-- CRUD Labels -->
+    <string name="title_pets">Mascotas</string>
+    <string name="title_users">Usuarios</string>
+    <string name="title_add_pet">Añadir Mascota</string>
+    <string name="title_edit_pet">Editar Mascota</string>
+    <string name="title_add_user">Añadir Usuario</string>
+    <string name="title_edit_user">Editar Usuario</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_description">Descripción</string>
+    <string name="label_avatar_url">URL de Imagen (Opcional)</string>
+    <string name="btn_save">Guardar Cambios</string>
+    <string name="msg_no_data">No hay datos disponibles</string>
+    <string name="btn_manage_pets">Gestionar Mascotas</string>
 
     <!-- Forgot password -->
     <string name="forgot_title">Recuperar contraseña</string>
